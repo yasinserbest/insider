@@ -1,0 +1,68 @@
+.leagueTable__row {
+  width: 350px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.leagueTable__row--team {
+  width: 110px;
+}
+
+.leagueTable__row--status {
+  width: 50px;
+}
+
+.weekly__data {
+  margin-top: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.match__results--title {
+  text-align: center;
+}
+
+.match__results--desc {
+  text-align: center;
+}
+
+.match__results--row {
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-align: center;
+}
+
+.match__results--row-team1, .match__results--row-team2 {
+  width: 100px;
+}
+
+.match__results--row-score-1, .match__results--row-score-2 {
+  width: 18px;
+}
+
+.hidden {
+  display: none;
+}
+
+.color-greyish {
+  background-color: #eee;
+}
+
+.mt-10px {
+  margin-top: 27px;
+}
+
+.mt-20px {
+  margin-top: 20px;
+}
+/*# sourceMappingURL=style.css.map */
